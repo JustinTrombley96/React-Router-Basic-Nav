@@ -1,6 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
+//Use Link to allow the Divs to send you to the correct page.
+
 const Navigation = () => {
 	return (
 		<div>

@@ -3,6 +3,11 @@ import './App.css';
 import { Home, About, Contact, Navigation } from './components';
 import { Route } from 'react-router-dom';
 
+//Import Route and create three Route paths.
+//One for Home, About, and Contact.
+
+//After creating the route paths, set them equal to the correct component.
+
 const App = () => (
 	<div>
 		<Navigation />

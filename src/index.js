@@ -5,6 +5,8 @@ import App from './App';
 import 'bootstrap/dist/css/bootstrap.css';
 import { BrowserRouter as Router } from 'react-router-dom';
 
+//Import your BrowserRouter as Router and wrap your App in it.
+
 ReactDOM.render(
 	<Router>
 		<App />
